@@ -1,5 +1,5 @@
 # Manejo de tuplas v1.1
-# Sincronizando Git - Github
+# Sincronizando Git - Github 2.0
 import random
 from site import venv
 import string
