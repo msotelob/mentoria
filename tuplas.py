@@ -1,16 +1,14 @@
 # Manejo de tuplas v1.1
-# ...
+# Sincronizando Git - Github
 import random
 from site import venv
 import string
 
 def generar_contrasena():
     caracter = string.ascii_lowercase + string.digits + string.punctuation + string.ascii_uppercase
-
     contrasena = []
-
     while (len(contrasena) < 16):
-        caracteres=random.choice(caracter)    
+        caracteres = random.choice(caracter)    
         contrasena.append(caracteres)
 
     contrasena = "".join(contrasena)
