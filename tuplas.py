@@ -1,4 +1,5 @@
-# Manejo de tuplas v1.0
+# Manejo de tuplas v1.1
+# ...
 import random
 from site import venv
 import string
