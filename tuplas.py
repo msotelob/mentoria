@@ -1,5 +1,5 @@
 # Manejo de tuplas v1.1
-# ...
+# Para fines academicos
 import random
 from site import venv
 import string
